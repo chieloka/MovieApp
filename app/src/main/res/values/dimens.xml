@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="horizontal_padding">16dp</dimen>
+    <dimen name="h1">24sp</dimen>
+    <dimen name="small_v_marging">8dp</dimen>
+</resources>
